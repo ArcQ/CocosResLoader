@@ -1,5 +1,5 @@
 # CocosResLoader
-
+```CocosResLoader is now depreceuted and included under CocosResManager!
 CocosResLoader is a module that overrides default preloader function in the cocos2djs opensrc library. It has the following functions:
 - Lazy loading of resources to split out the loading large resource libraries
 - Easy customization of loading scene and loading bar
